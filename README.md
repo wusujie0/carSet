@@ -1,0 +1,4 @@
+chat_s是聊天服务器
+server是card相关的服务器
+cardset是客户端
+visual paradigm.tar.gz是项目相关的图

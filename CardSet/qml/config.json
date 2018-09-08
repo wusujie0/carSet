@@ -1,0 +1,8 @@
+{
+    "title": "CardSet",
+    "identifier": "com.yourcompany.wizardEVAP.CardSet",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
